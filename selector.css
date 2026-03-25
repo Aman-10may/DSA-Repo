@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+*{
+ color:aqua;
+    /*Universal Selector*/   
+}
+h1{
+    color : red; /*Element Selector*/
+}
+#ids1{
+  color:blueviolet;  /*Id/Class Selector*/
+}
+#ids2{
+  color:blue;  /*Id Selector*/
+ }
+ .myclass{
+    color:azure;
+ }
